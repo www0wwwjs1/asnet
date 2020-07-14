@@ -1,3 +1,5 @@
+Code corresponding to paper: AsNet: Asymmetrical Network for Learning Rich Features in Person Re-Identification
+
 To create exceutable environment with anaconda:
 ```
 conda env create -f conda.yaml
